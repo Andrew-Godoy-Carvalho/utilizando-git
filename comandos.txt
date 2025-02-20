@@ -9,3 +9,6 @@ git add .
 
 -> Salva uma versão dos arquivos 
 git commit -m "Por que estou salvando???"
+
+-> Git push (Adiciona informação do computador para nuvem)
+git push 
